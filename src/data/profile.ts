@@ -2,7 +2,7 @@ import type { DeveloperProfile } from '@/types'
 
 export const profile: DeveloperProfile = {
   name: 'Natan Furletti ',
-  title: 'Back-End Developer',
+  title: 'BackEnd Developer',
   bio: 'Backend developer specialized in Node.js, TypeScript, and RESTful APIs. Experience with MySQL, PostgreSQL, and Prisma ORM. Currently studying software architecture, and AI, focused on building scalable, high-performance systems using best practices such as Clean Architecture and TDD.',
   location: 'BH / MG, Brazil',
   availableForWork: true,
